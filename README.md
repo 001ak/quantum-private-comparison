@@ -50,7 +50,7 @@ The implementation involves creating quantum circuits using Qiskit and simulatin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/quantum-private-comparison.git
+    git clone https://github.com/001ak/quantum-private-comparison.git
     cd quantum-private-comparison
     ```
 
