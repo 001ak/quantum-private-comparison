@@ -1,6 +1,10 @@
 # Quantum Private Comparison via Quantum Walks on Circle
 
-This repository contains the implementation of the protocol described in the research paper titled "Novel two-party quantum private comparison via quantum walks on circle" by Feng-Lin Chen, Hai Zhang, Su-Gen Chen, and Wen-Tao Cheng.
+This repository contains the implementation of the protocol described in the research paper titled "Novel two-party quantum private comparison via quantum walks on the circle" by Feng-Lin Chen, Hai Zhang, Su-Gen Chen, and Wen-Tao Cheng.
+
+## Project Members
+- **Aman Kumar** ([@001ak](https://github.com/001ak))
+- **Aditya Wagh** ([@adityawagh01](https://github.com/adityawagh01))
 
 ## Introduction
 
